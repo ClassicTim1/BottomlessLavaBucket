@@ -8,10 +8,5 @@ namespace BottomlessLavaBucket
 		public BottomlessLavaBucket()
 		{
 		}
-        
-        public override void AddRecipes()
-        {
-        }
-        
 	}
 }
